@@ -1,4 +1,4 @@
-Head
+[![Header](https://github.com/Igor-Zest/Igor-Zest/blob/main/Assets/Header.png)](https://hh.ru/resume/523edd5bff096e99760039ed1f6f706c506d67)
 
 About me: I have always dreamed and aspired to change the direction in which I work to an IT specialty, thereby attracting the specialization of a tester, which allows me to fully begin immersion.
 In the future, I want to develop in the direction of autotests or switch to programming.
@@ -35,7 +35,9 @@ With the help of POSTMAN, I tested new API functions of the service — Yandex C
 I made flowcharts for the logic of calculating the cost in Yandex Routes
 Performed sampling and searching of various data via PostgreSQL
 
-Skills: Postman API · PostgreSQL · SQL · API Testing · XML · Charles Proxy · JSON · Git · Console · Regression Testing 
+Skills:
+
+ Postman API · PostgreSQL · SQL · API Testing · XML · Charles Proxy · JSON · Git · Console · Regression Testing 
 · Functional Testing · Chrome Developer Tools · Testing · Adobe Photoshop · Test Cases · Test Planning · Check-List · Cross-browser Testing · API Testing
 
 
@@ -47,6 +49,7 @@ https://www.youtube.com/watch?v=arj7oStGLkU
 
 
 Languages: 
+
 Englishe - Intermediate
 Russian - Native
 Ukranian - Advanced
@@ -54,6 +57,7 @@ Japanese - Beginner
 
 
 Tools:
+
  Postman · Charles · Cygwin · DevTools · AndroidSDK
 
 
