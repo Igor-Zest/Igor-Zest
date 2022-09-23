@@ -39,11 +39,22 @@ Skills: Postman API · PostgreSQL · SQL · API Testing · XML · Charles Proxy 
 · Functional Testing · Chrome Developer Tools · Testing · Adobe Photoshop · Test Cases · Test Planning · Check-List · Cross-browser Testing · API Testing
 
 
-Lastest YouTube Video
+Lastest YouTube Video: 
+
+Tim Urban: Inside the mind of a master procrastinator | TED
+https://www.youtube.com/watch?v=arj7oStGLkU
 
 
 
-Languages and Tools
+Languages: 
+Englishe - Intermediate
+Russian - Native
+Ukranian - Advanced
+Japanese - Beginner
+
+
+Tools:
+ Postman · Charles · Cygwin · DevTools · AndroidSDK
 
 
 
