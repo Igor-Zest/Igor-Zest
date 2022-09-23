@@ -7,6 +7,23 @@ A gamer with many years of experience, I like to read fiction and arrange gastro
 I really love Japanese and Scandinavian cultures.
 
 
+
+
+
+Links to my prijeck works:
+
+MaindMap:
+
+ https://miro.com/app/board/uXjVOvhaCRk=/?share_link_id=958634951912
+
+
+
+Check-List and Test-case for API, mobile and Web testing (Graduate work):
+ 
+ https://docs.google.com/spreadsheets/d/1wFdUILzWBQODrGeBTHn3yFLyp2pdfFxvaiuufRVJYLs/edit?usp=sharing
+
+
+
 Experience: 
 
 Yandex Practicum
@@ -27,6 +44,8 @@ Lastest YouTube Video
 
 
 Languages and Tools
+
+
 
 
 
