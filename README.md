@@ -48,12 +48,7 @@ https://www.youtube.com/watch?v=arj7oStGLkU
 
 
 
-Languages: 
-
-Englishe - Intermediate
-Russian - Native
-Ukranian - Advanced
-Japanese - Beginner
+Languages: Englishe - Intermediate · Russian - Native · Ukranian - Advanced · Japanese - Beginner
 
 
 Tools:
