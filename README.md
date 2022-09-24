@@ -9,7 +9,6 @@ I really love Japanese and Scandinavian cultures.
 
 
 
-
 Links to my prijeck works:
 
 MaindMap:
@@ -37,7 +36,7 @@ Performed sampling and searching of various data via PostgreSQL
 
 Skills:
 
- Postman API · PostgreSQL · SQL · API Testing · XML · Charles Proxy · JSON · Git · Console · Regression Testing 
+ Postman API · PostgreSQL · SQL · API Testing · XML · Charles Proxy · JSON · Git · Console · Regression Testing · Mobile testing
 · Functional Testing · Chrome Developer Tools · Testing · Adobe Photoshop · Test Cases · Test Planning · Check-List · Cross-browser Testing · API Testing
 
 
