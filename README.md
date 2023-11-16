@@ -50,10 +50,6 @@ Skills:
 · Functional Testing · Chrome Developer Tools · Testing · Adobe Photoshop · Test Cases · Test Planning · Check-List · Cross-browser Testing · API Testing
 
 
-Lastest YouTube Video: 
-
-ТОПЛЕС: СТРАХ АТАКУЕТ! — ТОПЛЕС
-https://www.youtube.com/watch?v=yJoW7RoIs_Q
 
 
 
